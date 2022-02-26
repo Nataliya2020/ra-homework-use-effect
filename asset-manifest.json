@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-homework-use-effect/static/css/main.76e184b3.css",
+    "main.js": "/ra-homework-use-effect/static/js/main.c3659c8d.js",
+    "static/js/787.20e1ad47.chunk.js": "/ra-homework-use-effect/static/js/787.20e1ad47.chunk.js",
+    "index.html": "/ra-homework-use-effect/index.html",
+    "main.76e184b3.css.map": "/ra-homework-use-effect/static/css/main.76e184b3.css.map",
+    "main.c3659c8d.js.map": "/ra-homework-use-effect/static/js/main.c3659c8d.js.map",
+    "787.20e1ad47.chunk.js.map": "/ra-homework-use-effect/static/js/787.20e1ad47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e184b3.css",
+    "static/js/main.c3659c8d.js"
+  ]
+}
